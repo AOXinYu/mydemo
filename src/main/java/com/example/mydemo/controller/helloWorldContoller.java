@@ -9,7 +9,7 @@ public class helloWorldContoller {
     @ResponseBody
     @RequestMapping("/")
     public String hello(){
-        return "hello SpringBoot!";
+        return "hello 测试再次提交!";
     }
 
 }
