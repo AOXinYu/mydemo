@@ -9,7 +9,7 @@ public class helloWorldContoller {
     @ResponseBody
     @RequestMapping("/")
     public String hello(){
-        return "测试，完成了GitHub设置并且配置好Jenkins ，第三次测试";
+        return "测试，完成了GitHub设置并且配置好Jenkins ，第四次测试";
     }
 
 }
